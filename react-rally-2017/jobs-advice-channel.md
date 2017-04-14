@@ -17,7 +17,7 @@ As of right now, I would want to talk about some of the following points (in the
 * Why a resume is more than just a list of skills (and why line-height matters)
 * Why code school grads should learn older frameworks and libraries, too
 
-My plan is to sprinkle the slides of this talk with some actual statements (screenshots, possibly) from the channel (with permission, of course), and of course, some great gifs to go along. Primarily, this will be a light hearted talk, but with some serious implications on how all developer's can improve their career by improving their soft skills. I'll end with an invitation for people to join in the conversation of the channel, helping one another grow as developers.
+My plan is to sprinkle the slides of this talk with some actual statements (screenshots, possibly) from the channel (with permission, of course), and of course, some great gifs to go along. Primarily, this will be a light hearted talk, but with some serious implications on how all developers can improve their career by improving their soft skills. I'll end with an invitation for people to join in the conversation of the channel, helping one another grow as developers.
 
 ## Pitch
 
