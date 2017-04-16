@@ -16,10 +16,10 @@ Recently, I built an Electron app powered by several React apps for a 65" 4K tou
 
 In this same set of applications, a second renderless component, a `<SocketHandler />`, was created to dispatch actions to Redux stores across apps via websockets.
 
-I would follow this up with some pre-emptive points regarding other options for similar situations, such as middlewares (for store updates) or HOCs (sharing functionality). I would counter by reasoning that in a component driven ecosystem, it makes sense to use components in reasonable ways to solve our problems.
+I will follow this up with some pre-emptive points regarding other options for similar situations, such as middlewares (for store updates) or HOCs (sharing functionality). I will counter by reasoning that in a component driven ecosystem, it makes sense to use components in reasonable ways to solve our problems.
 
-Lastly, I would finish with an exploration of some other possibilities for renderless components, like drop-in analytics based on context or other possibilities.
+Lastly, I will finish with an exploration of some other possibilities for renderless components, like drop-in analytics based on context or other possibilities.
 
 ## Pitch
 
-Renderless components are a natural evolution of using components to build up application functionality that may not map 1-to-1 with UI elements. However, it might not be obvious to developers to use components in this way. My hope is to share with them a pattern I have found useful in my work and think the community at large would find useful in similar situations. At the very least, it will encourage developers to explore the boundaries of what a component can be used for in a React application. I'm an engaging speaker having spent years doing public speaking in my previous career as a pastor, and I hope to put those skills to good use at React Rally.
+Renderless components are a natural evolution of using components to build up application functionality that may not map 1-to-1 with UI elements. However, it might not be obvious to developers to use components in this way. I want to share with them a pattern I have found useful in my work and think the community at large will find useful in similar situations. This will encourage developers to explore the boundaries of what a component can be used for in a React application. I'm an engaging speaker having spent years doing public speaking in my previous career as a pastor, and I hope to put those skills to good use at React Rally.
