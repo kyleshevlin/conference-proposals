@@ -2,6 +2,9 @@
 
 ## ...I should apply
 
+- [ChainReact](https://infinite.red/ChainReactConf) July 11-13, Portland
+- [NordicJS](https://vimeo.com/68470326) September 6-7, Stockholm, Sweden
+- [OSCON](https://conferences.oreilly.com/oscon/oscon-or/public/cfp/615?cmp=tw-prog-confpro-info-osor18_os_cfp) July 18-19, Portland
 - [Nodevember](http://nodevember.org/) - November 2018 - Nashville
 - [React Rally](http://www.reactrally.com/) - August - Salt Lake City
 - [Codemesh](http://www.codemesh.io/) - November 7-8 2018 London
