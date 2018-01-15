@@ -25,3 +25,5 @@ We live in a time where we need ethical frameworks more urgently than we need ne
 [Uber Avoids The Cops](https://www.inverse.com/article/28646-uber-greyball-public-officials)
 
 [Mike Montiero - Webstock '13](https://vimeo.com/68470326)
+
+[Hawaiian False Alarm](https://techcrunch.com/2018/01/13/inexcusable-false-ballistic-missile-alert-in-hawaii-was-caused-by-human-error/)
