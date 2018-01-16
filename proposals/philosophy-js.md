@@ -4,7 +4,19 @@ Many students will spend the majority of their academic careers studying mathema
 
 We live in a time where we need ethical frameworks more urgently than we need new programming frameworks. The code we write, the products we make, and the apps we build occasionally result in serious negative ethical consequences. Even jail time in certain cases. This can be entirely avoided, but it requires a shift in how we solve our software problems. The study of philosophy, especially logic and ethics can help us make that shift. This talk will discuss why these things are vital to improving the ethical and technological standards of our industry.
 
+## Abstract
+
+This talk focuses on why philosophy, specifically the study of ethics, is important for software engineers.
+
+Many students spend the majority of their academic lives learning logic and critical thinking as byproducts to other subjects. Some students never formally study the logic or ethics. These subjects fall under the purview of philosophy. This talk demonstrates why studying logic and ethics directly is necessary in our current industry.
+
+We love to debate the benefits of this or that JavaScript framework, when what we urgently need are ethical frameworks. A software engineer is in jail currently for writing code that falsified emissions tests for Volkswagen. Uber created software so their drivers could operate in cities illegally and avoid the police. Facebook's privacy settings destroyed a young woman's relationship with her family. The most recent software-turned-ethical-nightmare is the Hawaiian missile false alarm, where poorly designed software sent an entire state into panic. We can do better. Part of doing better is having the tools and education to evaluate the software we write more critically and ethically.
+
+The talk will consist of an introduction to the problem as I've described above. Next, it will establish some of the reasons why we need to start studying ethics using the examples mentioned previously. Then, the talk will discuss some of the basics of the field of ethics and directly apply them to software processes. For example, we already do code reviews, what if we did ethics reviews as well? What if premortems were just as common as postmortems for projects ("What could go wrong?" long before "What did go wrong?")? This talk ends with a call to action, asking the audience to consider the ramifications of our work before we build it. In other words, we should focus as much on _why_ we build software, as we do on _how_ we build software.
+
 ## Main Points
+
+*Some of these aren't as relevant now that the talk focuses more on ethics, but still good to keep for other ideas or references in the future*
 
 * We often hear people lament, "I could never be a programmer, I'm no good at math." This statement is false. Math is not a prerequisite for being good at programming and can proven to be false (using symbolic logic).
 * Math, for all its positives, is an inadequate means of teaching logic. It teaches it indirectly. We need direct training in logic, which would be applicable to many more fields than mathematics, including computer science.
@@ -25,3 +37,5 @@ We live in a time where we need ethical frameworks more urgently than we need ne
 [Uber Avoids The Cops](https://www.inverse.com/article/28646-uber-greyball-public-officials)
 
 [Mike Montiero - Webstock '13](https://vimeo.com/68470326)
+
+[Hawaiian False Alarm](https://techcrunch.com/2018/01/13/inexcusable-false-ballistic-missile-alert-in-hawaii-was-caused-by-human-error/)
