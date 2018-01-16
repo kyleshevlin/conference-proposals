@@ -4,6 +4,10 @@ Many students will spend the majority of their academic careers studying mathema
 
 We live in a time where we need ethical frameworks more urgently than we need new programming frameworks. The code we write, the products we make, and the apps we build occasionally result in serious negative ethical consequences. Even jail time in certain cases. This can be entirely avoided, but it requires a shift in how we solve our software problems. The study of philosophy, especially logic and ethics can help us make that shift. This talk will discuss why these things are vital to improving the ethical and technological standards of our industry.
 
+## Short Description
+
+We live in a time where the choices we make as software engineers can have significant ethical implications and consequences. New JavaScript frameworks are always fun to discuss, but maybe it's time that we talk about learning some ethical frameworks instead and just how we might apply them to software development.
+
 ## Abstract
 
 This talk focuses on why philosophy, specifically the study of ethics, is important for software engineers.
