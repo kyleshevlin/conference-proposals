@@ -2,7 +2,7 @@
 
 ## ...I should consider applying
 
-- [NordicJS](https://vimeo.com/68470326) September 6-7, Stockholm, Sweden
+- [NordicJS](http://cfp.nordicjs.com/) September 6-7, Stockholm, Sweden
 - [Nodevember](http://nodevember.org/) - November 2018 - Nashville
 - [React Rally](http://www.reactrally.com/) - August - Salt Lake City
 - [Codemesh](http://www.codemesh.io/) - November 7-8 2018 London
