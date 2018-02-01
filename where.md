@@ -24,6 +24,7 @@
 
 | Name | Link | When | Where |
 |---|---|---|---|
+| Revolution Conf | http://revolutionconf.com/ | May 17-18 | Virginia Beach |
 | ChainReact | https://infinite.red/ChainReactConf | July 11-13 | Portland |
 | OSCON | https://conferences.oreilly.com/oscon/oscon-or/public/cfp/615?cmp=tw-prog-confpro-info-osor18_os_cfp | July 18-19 | Portland |
 
