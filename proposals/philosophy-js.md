@@ -6,7 +6,7 @@ We live in a time where we need ethical frameworks more urgently than we need ne
 
 ## Short Description
 
-We live in a time where the choices we make as software engineers can have significant ethical implications and consequences. New JavaScript frameworks are always fun to discuss, but maybe it's time that we talk about learning some ethical frameworks instead and just how we might apply them to software development.
+As software engineers, we love to debate what frameworks we use to do our work. We argue with passion whether this one is better than that one. We evaluate their merits, make a decision, and live with the consequences (until a rewrite, of course). But some decisions we make have greater consequences than a change in the bundle size or the bottom line. Some choices we make have real ethical consequences. Volkswagen falsifies emissions tests with software. Uber drivers can avoid cops with software. The state of Hawaii is sent into a panic with software. Maybe a new coding framework isn't what we need next. Maybe the next framework we need is one that guides our ethical discussions about software.
 
 ## Abstract
 
